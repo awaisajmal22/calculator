@@ -1,6 +1,8 @@
-# calculator
+
 
 A new Flutter project.
+![Screenshot_1703058451](https://github.com/awaisajmal22/calculator/assets/120619553/c1465c85-5e31-4113-bc2c-b056fd02cf1e)
+
 
 ## Getting Started
 
